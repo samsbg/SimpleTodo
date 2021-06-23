@@ -4,7 +4,7 @@ SimpleTodo is an android app that allows building a todo list and basic todo ite
 
 Submitted by: **Samantha Bautista**
 
-Time spent: **6** hours spent in total
+Time spent: **7** hours spent in total
 
 ## User Stories
 
@@ -16,13 +16,13 @@ The following **required** functionality is completed:
 
 The following **bonus** features are implemented:
 
-* [ ] User can **tap a todo item in the list and bring up an edit screen for the todo item** and then have any changes to the text reflected back in the todo list
+* [x] User can **tap a todo item in the list and bring up an edit screen for the todo item** and then have any changes to the text reflected back in the todo list
 
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
 
-<img src='SimpleTodo.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='Walkthrough.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with QuickTime Player and [Giphy](giphy.com).
 
